@@ -1,6 +1,6 @@
 # fugue
 
-Fitness app created in react-native
+Fitness app written in react-native and Typescript
 
 ## Spec
 
@@ -22,3 +22,8 @@ Fitness app created in react-native
 
 
 ==> cd fugue && yarn add react-native react-native-web react-art
+
+
+==> cd fugue && yarn add -D @types/react-native
+
+==> Delete logo.svg, index.css, App.css, App.test.tsx

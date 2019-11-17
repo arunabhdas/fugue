@@ -32,3 +32,8 @@ Delete logo.svg, index.css, App.css, App.test.tsx
 Add client-side-rendering block from here : 
 
 https://github.com/necolas/react-native-web
+
+
+## Run in dev
+
+==> yarn start

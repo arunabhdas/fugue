@@ -37,7 +37,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 function hello() {
     return __awaiter(this, void 0, void 0, function () {
         return __generator(this, function (_a) {
-            return [2 /*return*/, 'Welcome to Fugue'];
+            return [2 /*return*/, 'Welcome to Fugue.'];
         });
     });
 }

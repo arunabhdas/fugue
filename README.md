@@ -33,11 +33,17 @@ Add client-side-rendering block from here :
 
 https://github.com/necolas/react-native-web
 
+==> react-native init FugueApp --template typescript
+
 
 ## Run in dev
 
 ==> yarn start
 
+
+## Install react-native-cli
+
+==> npm install -g react-native-cli
 
 # Links
 

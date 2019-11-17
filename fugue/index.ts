@@ -1,3 +1,6 @@
-console.log('Welcome to Fugue');
 
 
+
+async function hello() {
+    return 'Welcome to Fugue';
+}

@@ -19,3 +19,6 @@ Fitness app created in react-native
 ## Steps
 
 ==> yarn create react-app fugue --typescript
+
+
+==> cd fugue && yarn add react-native react-native-web react-art

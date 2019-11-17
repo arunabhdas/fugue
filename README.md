@@ -37,3 +37,8 @@ https://github.com/necolas/react-native-web
 ## Run in dev
 
 ==> yarn start
+
+
+# Links
+
+https://www.youtube.com/watch?v=_CBYbEGvxYY

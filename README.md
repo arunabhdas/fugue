@@ -26,4 +26,9 @@ Fitness app written in react-native and Typescript
 
 ==> cd fugue && yarn add -D @types/react-native
 
-==> Delete logo.svg, index.css, App.css, App.test.tsx
+Delete logo.svg, index.css, App.css, App.test.tsx
+
+
+Add client-side-rendering block from here : 
+
+https://github.com/necolas/react-native-web
